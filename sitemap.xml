@@ -2,10 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jorgesilva27.github.io/categories/</loc>
+    <loc>https://jorgesilvadesign.github.io/contact/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jorgesilva27.github.io/</loc>
+    <loc>https://jorgesilvadesign.github.io/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://jorgesilva27.github.io/tags/</loc>
+    <loc>https://jorgesilvadesign.github.io/projects/project1/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jorgesilvadesign.github.io/projects/project2/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jorgesilvadesign.github.io/projects/</loc>
+    <lastmod>2026-01-16T00:00:00+00:00</lastmod>
   </url>
 </urlset>
